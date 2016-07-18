@@ -10,7 +10,7 @@ app.use(express.static(__dirname + '/public'));
 app.set('view engine', 'ejs');
 
 ig.use({
-	access_token: '9841118.1677ed0.3c90c1eea6fa48a1b533c83faa11a359'
+	access_token: 'access token here'
 });
 
 // set routes
