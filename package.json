@@ -1,0 +1,21 @@
+{
+  "name": "insta-pics",
+  "version": "1.0.0",
+  "description": "Displays most recent instagram pics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Joel Ginsberg",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8"
+  },
+  "devDependencies": {}
+}
